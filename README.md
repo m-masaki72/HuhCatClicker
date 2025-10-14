@@ -27,7 +27,7 @@ https://m-masaki72.github.io/HuhCatClicker/
 
 1. クリックする。
 
-1/ Huh?
+1. Huh?
 
 
 ## 🛠️ 使用技術 (Technology Stack)
@@ -35,3 +35,4 @@ https://m-masaki72.github.io/HuhCatClicker/
 - HTML
 - Tailwind CSS
 - JavaScript (Vanilla JS)
+
