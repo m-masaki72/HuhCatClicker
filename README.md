@@ -4,7 +4,7 @@
 
 ## 🎮 デモページ (Demo)
 
-https://m-masaki72.github.io/HuhCatClicker/
+https://huh-cat.morilab-garage.com/
 
 ## ✨ 主な特徴 (Features)
 
