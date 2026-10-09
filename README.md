@@ -36,3 +36,7 @@ https://huh-cat.morilab-garage.com/
 - Tailwind CSS
 - JavaScript (Vanilla JS)
 
+## 紹介ページ
+
+- [制作物ページ（Mori Lab）](https://morilab-garage.com/projects/huh-cat-clicker/)
+- [開発ブログ記事（はてなブログ）](https://mementomori7272.hatenablog.com/entry/2025/10/15/210719)
